@@ -11,5 +11,5 @@ git config --global alias.st status
 git config --global alias.lg log
 git config --global alias.df diff
 
-git config --global user.name='Norman'
-git config --global user.email='norman.kern@gmx.com'
+git config --global user.name 'Norman'
+git config --global user.email 'norman.kern@gmx.com'
